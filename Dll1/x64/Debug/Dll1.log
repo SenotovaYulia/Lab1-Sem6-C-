@@ -1,5 +1,0 @@
-﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (DymanicLib.vcxproj).  Это может привести к ошибкам очистки и перестроения.
-  pch.cpp
-  dllmain.cpp
-     Создается библиотека C:\Users\user\Documents\C#_projects\Solution1\x64\Debug\Dll1.lib и объект C:\Users\user\Documents\C#_projects\Solution1\x64\Debug\Dll1.exp
-  Dll1.vcxproj -> C:\Users\user\Documents\C#_projects\Solution1\x64\Debug\Dll1.dll
